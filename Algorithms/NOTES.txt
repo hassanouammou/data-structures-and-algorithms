@@ -1,0 +1,7 @@
+* Sorting Algorithms divided to: 2 categories 
+    Comparison-based Algorithms
+    Non-Comparison-based Algorithms
+* Comparison-based Algorithms 
+    ie 
+        Selection Sort 
+        

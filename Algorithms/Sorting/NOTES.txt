@@ -1,0 +1,9 @@
+/* 
+ * O(n^2) : quadratic (i.e: Selection Sort, Bubble Sort)
+ * O(n^2) : loop1 => O(n) & loop2 => O(n)
+ * O(n) * O(n) = O(n^2)
+*/
+
+/*       Selection Sort
+ * Simple and Straightforward 
+*/

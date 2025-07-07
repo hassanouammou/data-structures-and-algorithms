@@ -1,0 +1,6 @@
+Non-Linear Data Structure-Types: (For example)
+    Binary Tree (each node can have up to 2 children)
+    Binary Search Tree
+    Graph
+    AVL Trees
+    Red Black Trees

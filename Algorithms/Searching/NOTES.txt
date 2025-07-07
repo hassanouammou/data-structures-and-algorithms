@@ -1,0 +1,28 @@
+/*             Linear Search
+ * Linear Search, also known as Sequential Search
+ * Simple and Straightforward 
+ * 
+ * Performance:
+ * - Best Case: O(1)
+ * - Worst Case: O(n)
+ * - Average Case: O(n)
+ * 
+ * Space Complexity:
+ * - Auxiliary Space: ? (number of arguments used for the search)
+ * - Total Space Complexity: Auxiliary Space + Space used for input data
+ * 
+ * Plus +
+ *  - Space here represent the Memory
+*/
+
+/*            Binary Search
+ * Requirements
+ * - Sorted Array
+ *
+ * Performance 
+ * - Best Case: O(1)
+ * - Worst Case: O(log N)
+ * - Average Case: O(log N)
+*/
+
+
